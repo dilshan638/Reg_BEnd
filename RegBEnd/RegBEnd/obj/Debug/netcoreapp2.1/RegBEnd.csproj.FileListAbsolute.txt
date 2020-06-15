@@ -1,0 +1,16 @@
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\RegBEnd.deps.json
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\RegBEnd.runtimeconfig.json
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\RegBEnd.runtimeconfig.dev.json
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\RegBEnd.dll
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.RazorAssemblyInfo.cache
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.RazorAssemblyInfo.cs
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.AssemblyInfoInputs.cache
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.AssemblyInfo.cs
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.RazorTargetAssemblyInfo.cache
+D:\Unitec_New\RegBEnd\RegBEnd\bin\Debug\netcoreapp2.1\RegBEnd.pdb
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.dll
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.pdb
+D:\Unitec_New\RegBEnd\RegBEnd\obj\Debug\netcoreapp2.1\RegBEnd.csprojAssemblyReference.cache
